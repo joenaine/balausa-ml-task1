@@ -23,8 +23,6 @@ This repository is the submission. It reproduces the lecture's Boston Housing ex
 | **[Report.pdf](Report.pdf)** | The report. This is the file to hand in. |
 | **[Report.ipynb](Report.ipynb)** | Runnable notebook: code, figures, and the same write-up. Hand this in if the course wants an `.ipynb`. |
 
-Fill in **name** and **group** on the first page of `Report.pdf` before uploading to the LMS.
-
 ## Dataset
 
 - Source: StatLib California Housing archive ([Figshare](https://ndownloader.figshare.com/files/5976036)).

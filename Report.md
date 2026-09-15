@@ -1,6 +1,7 @@
 ---
 title: "Practical Task 1: Supervised Learning"
 subtitle: "Ordinary least squares on the California Housing dataset"
+author: "Balaussa Ibrayeva"
 date: "15 September 2026"
 geometry: margin=2.4cm
 fontsize: 11pt
@@ -11,8 +12,6 @@ header-includes:
   - \usepackage{caption}
   - \captionsetup{font=small,labelfont=bf}
 ---
-
-Student name: \underline{\hspace{8cm}} \hfill Group: \underline{\hspace{3.5cm}}
 
 # 1. Task
 
