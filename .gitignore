@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+.ipynb_checkpoints/
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local leftovers, not part of the assignment
+.DS_Store
+asd
+ndda_drugs_1778155155004.csv
+supervised_learning/_preview/
